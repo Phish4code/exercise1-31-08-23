@@ -1,0 +1,18 @@
+body {
+    background-image: linear-gradient(to bottom right, #ffd504 20px, #ff5e00);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: scroll;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+    }
+a {
+    /* text-decoration: none;
+    color: #2C3E50; */
+    transform: translateY(-5px);
+
+}
+
+input {
+    
+}
